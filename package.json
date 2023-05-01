@@ -2,6 +2,10 @@
   "name": "react-isonline-checker",
   "version": "1.0.2",
   "description": "A React component and hook for checking if the user's device is online or offline.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/my-package.git"
+  },
   "keywords": [
     "react",
     "online",
