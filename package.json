@@ -1,0 +1,20 @@
+{
+  "name": "react-isonline-checker",
+  "version": "1.0.2",
+  "description": "A React component and hook for checking if the user's device is online or offline.",
+  "keywords": [
+    "react",
+    "online",
+    "offline",
+    "internet",
+    "connection",
+    "network",
+    "status"
+  ],
+  "main": "CheckOnline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipu Singh",
+  "license": "ISC"
+}
